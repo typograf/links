@@ -7,3 +7,5 @@
 + [Всё (или почти всё) о пробеле](http://habrahabr.ru/post/23250/)
 + [Некоторые особенности русской и французской пунктуации](http://yazik.info/2011-19.php)
 + [Тире, минус, дефис](http://artefact.lib.ru/design/text_macros_06_dashes_typo.shtml)
++ [Mind Your Apostrophes](http://betweenborders.com/wordsmithing/mind-your-apostrophes/)
++ [apostrophe - n2043.pdf](http://std.dkuug.dk/JTC1/SC2/WG2/docs/n2043.pdf)
